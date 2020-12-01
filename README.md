@@ -9,4 +9,5 @@ That's pretty much it about me <br>
 - 🌱 I’m currently learning Dot Net (Asp Api/MVC, Xamarin)
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-ManuelRico-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuelmartinrico/)](https://www.linkedin.com/in/manuelmartinrico/)
 
-Always Tranquilo!
+Always Tranquilo! <br><br>
+![](tranquilo.gif)
